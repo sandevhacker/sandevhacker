@@ -15,4 +15,4 @@
 <img algin="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-Apaixonado por tecnologia, e pela sua maneira de mudar o mundo.
+Apaixonado por tecnologia, e por sua maneira de mudar o mundo.
