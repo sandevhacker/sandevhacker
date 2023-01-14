@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandevhacker2023/)
 
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=sandevhacker&show_icons=true&theme=dark)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=sandevhacker&show_icons=true&theme=onedark)
 
 
 ### Tecnologias que eu uso no meu dia
